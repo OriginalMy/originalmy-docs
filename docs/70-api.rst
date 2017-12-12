@@ -28,7 +28,7 @@ Checar contratos pendentes de assinatura pelo Usuário
 
 Method: GET
 
-Endpoint: http://testnet.originalmy.com/api/v1/check_contracts
+Endpoint: https://testnet.originalmy.com/api/v1/check_contracts
 
 Parameters:
 
@@ -68,7 +68,7 @@ Listar todos os contratos para o usuário
 
 Method: GET
 
-Endpoint: http://testnet.originalmy.com/api/v1/check_all_contracts
+Endpoint: https://testnet.originalmy.com/api/v1/check_all_contracts
 
 Parameters:
 
@@ -122,7 +122,7 @@ Registro de Contratos
 
 Method: GET
 
-Endpoint: http://testnet.originalmy.com/api/v1/company/register-contract
+Endpoint: https://testnet.originalmy.com/api/v1/company/register-contract
 
 Parameters:
 
@@ -173,7 +173,7 @@ Verificação do status do contrato
 
 Method: GET
 
-Endpoint: http://testnet.originalmy.com/api/v1/status
+Endpoint: https://testnet.originalmy.com/api/v1/status
 
 Parameters:
 
@@ -237,17 +237,17 @@ Registro de documentos
 
 Method: GET
 
-Endpoint: http://testnet.originalmy.com
+Endpoint: https://testnet.originalmy.com/api/document/register
 
 Parameters:
 
 +--------+--------+-------------------------------------------------------------------------------+
 | Campo  | Tipo   | Descrição                                                                     |
 +========+========+===============================================================================+
-| k      | String | Chave de acesso                                                               |
+| cupom  | String | Chave de acesso                                                               |
 |        |        | Exemplo: XXXX-XXXX-XXXXX                                                      |
 +--------+--------+-------------------------------------------------------------------------------+
-| k      | String | Digest SHA256 do PDF do documento digital                                     |
+| d      | String | Digest SHA256 do PDF do documento digital                                     |
 |        |        | Exemplo: f00ab5b228a4c31968c472b4dfcc013b5b27de134bb490c1a70327eaf90a8235     |
 +--------+--------+-------------------------------------------------------------------------------+
 
@@ -266,7 +266,7 @@ Verificação do status do registro
 
 Method: GET
 
-Endpoint: http://testnet.originalmy.com/api/v1/status
+Endpoint: https://testnet.originalmy.com/api/v1/status
 
 Parameters:
 
