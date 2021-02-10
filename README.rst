@@ -42,7 +42,7 @@ Acesse:
 - https://originalmy.com/pacdigital para Certificar documentos digitais
 - https://originalmy.com/omysign para Lançar documentos digitais para assinatura 
 - https://originalmy.com/blockchain-id para Emitir seu certificado digital gratuito
-- https://originalmy.com/kyc para Emissão de relatório completo com informações sobre pessoas e empresas
+- https://originalmy.com/kyc para Emissão de relatório com informações completas de pessoas e empresas
 - https://originalmy.com/voucher para Adquirir cupons com desconto para usar alguns serviços
 
 
