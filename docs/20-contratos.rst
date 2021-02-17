@@ -8,6 +8,10 @@ Certificação de Contratos
 =========================
 
 1. Entre em https://originalmy.com e faça Login
+
+.. image:: images/omysign 1.JPG
+  :scale: 70%
+
 2. Clique em **Assinatura de Contrato** e depois em **Lançar Contrato**
 3. Preencha os CPFs ou Passaportes dos signatários
 4. Coloque um apelido para identificar o contrato (este apelido irá aparecer no app)
