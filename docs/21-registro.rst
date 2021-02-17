@@ -1,4 +1,4 @@
-BitRegistro - Registro de Autenticidade
+PACDigital - Certificação de documentos digitais 
 =======================================
 
 =================
