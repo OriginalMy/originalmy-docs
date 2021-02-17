@@ -1,4 +1,4 @@
-Contratos - Registro e Assinatura
+OMySign: Assinatura digital de contratos 
 =================================
 
 Leia as recomendações para **reforçar a validade jurídica** do seu contrato neste link:                         http://originalmy.readthedocs.io/pt_BR/latest/80-recomendacoes.html
