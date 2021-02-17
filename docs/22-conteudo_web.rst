@@ -1,4 +1,4 @@
-Prova de Autenticidade para Conteúdo Web
+PACWeb - Coleta de provas na internet
 ========================================
 
 ========
