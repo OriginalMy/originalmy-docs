@@ -22,18 +22,17 @@ Certificação de Contratos
 .. image:: images/omysign3.JPG
   :scale: 70%
 
-4. Coloque um título para identificar o contrato (este apelido irá aparecer no app)
+4. Coloque um título para identificar o contrato (este apelido é como o documento aparecerá no app)
 
 .. image:: images/omysign4.JPG
   :scale: 70%
-
 
 5. Preencha os CPFs ou Passaportes dos signatários
 
 .. image:: images/omysign5.JPG
   :scale: 70%
   
-6.  Conclua o lançamento do contrato e efetue o pagamento via cartão de crédito/voucher
+6.  Clique em **continuar** para concluir a certificação do contrato e efetue o pagamento via cartão de crédito/voucher
 
 .. image:: images/omysign6.JPG
   :scale: 70%
@@ -45,17 +44,38 @@ Certificação de Contratos
 Assinatura de contratos
 =======================
 
-1. Baixe o app **OriginalMy Blockchain** para Android ou iOS, nas lojas de aplicativo de cada aparelho.
-2. Efetue o cadastro completo, valide seu email e aguarde a validação do cadastro
-3. Entre no Menu -> Assinar Documentos
-4. Clique em Assinar no documento que deseja assinar
-5. Coloque o PIN do documento
-6. Confirme a assinatura
+1. Baixe o app **OriginalMy** para Android ou iOS, nas lojas de aplicativo de cada aparelho. 
 
-.. image:: images/assinar_contrato1.jpg
-  :scale: 50%
-.. image:: images/assinar_contrato2.jpg
-  :scale: 50%
+.. image:: images/assinatura1.jpg
+ :scale: 30%
+
+2. Efetue o cadastro completo, valide seu email e aguarde a validação do cadastro. 
+
+3. Entre no Menu e clique em **OMySign**
+
+.. image:: images/assinatura2.jpg
+ :scale: 30%
+
+4. Na lista de Pendentes, clique no documento que deseja assinar 
+
+.. image:: images/assinatura3.jpg
+ :scale: 30%
+
+5. Comprove a posse sobre o documento a ser assinado selecionando a opção **Abrir contrato** 
+
+.. image:: images/assinatura4.jpg
+ :scale: 30%
+ 
+ 6. Selecione o documento na sua biblioteca e conclua clicando em **Assinar**
+ 
+ .. image:: images/assinatura5.jpg
+ :scale: 30%
+ 
+  7. Confirme a assinatura
+  
+ .. image:: images/assinatura6.jpg
+ :scale: 30%
+
 
 Como encontrar o PIN do documento
 ---------------------------------
