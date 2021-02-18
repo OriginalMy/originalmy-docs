@@ -15,7 +15,7 @@ Certificação de Contratos
 2. Acesse a aba **Serviços**, selecione o serviço **OMySign** e clique em **Comece aqui**
 
 .. image:: images/omysign2.JPG
-  :scale: 70%
+  :scale: 50%
 
 3. Submeta a versão final do contrato a ser assinado (PDF)
 
@@ -47,19 +47,20 @@ Assinatura de contratos
 1. Baixe o app **OriginalMy** para Android ou iOS, nas lojas de aplicativo de cada aparelho. 
 
 .. image:: images/assinatura1.jpg
- :scale: 30%
+ :scale: 50%
 
 2. Efetue o cadastro completo, valide seu email e aguarde a validação do cadastro. 
+
 
 3. Entre no Menu e clique em **OMySign**
 
 .. image:: images/assinatura2.jpg
- :scale: 30%
+ :scale: 40%
 
-4. Na lista de Pendentes, clique no documento que deseja assinar 
+4. Na lista de **Pendentes**, clique no documento que deseja assinar 
 
 .. image:: images/assinatura3.jpg
- :scale: 30%
+ :scale: 40%
 
 5. Comprove a posse sobre o documento a ser assinado selecionando a opção **Abrir contrato** 
 
@@ -74,7 +75,7 @@ Assinatura de contratos
   7. Confirme a assinatura
   
 .. image:: images/assinatura6.jpg
-:scale: 30%
+ :scale: 30%
 
 Como encontrar o PIN do documento
 ---------------------------------
