@@ -5,17 +5,15 @@ PACWeb - Coleta de provas na internet
 O que é?
 ========
 
-Encontrou algum conteúdo calunioso sobre você ou sua empresa? Deseja gerar uma prova de que determinado conteúdo estava disponível em algum site em certo momento? Recebeu um email com conteúdo ameaçador?
-
-A Extensão para o browser Chrome OriginalMy gera a Prova de Autenticidade que você precisa.
+Deseja gerar uma prova de que determinado conteúdo estava disponível em algum site em certo momento? A extensão PACWeb da OriginalMy gera a Prova de Autenticidade que você precisa!
 
 .. warning:: Esta ferramenta cria uma prova adicional e complementar que poderá ser utilizada em conjunto com outras provas que ajudem a montar um perfil de comportamento que será analisado pela justiça.
 
-Este aplicativo para o browser Chrome faz uma cópia do conteúdo que está sendo visualizado no browser e te fornece um relatório completo comprovando quando e onde esta informação estava disponível. Além disso ele já registra uma assinatura digital única e exclusiva que identificará esse documento em OriginalMy.com para fornecer uma prova de autenticidade com carimbo de tempo, confirmando o momento em que o conteúdo estava disponível.
+Este aplicativo faz uma cópia do conteúdo que está sendo visualizado no browser e te fornece um relatório completo comprovando quando e onde esta informação estava disponível. 
+Além disso ele já registra uma assinatura digital única e exclusiva que identificará esse documento no nosso site, para fornecer uma prova de autenticidade com carimbo de tempo, confirmando o momento em que o conteúdo estava disponível.
 
-Também chamado de **BitRegistro**, essa prova legal de autenticidade protege criações, ideias, contratos e quaisquer documentos digitais que necessitem de comprovação de integridade e autenticidade. Este BitRegistro é um registro exclusivo que identifica e comprova a autenticidade e integridade do documento registrado utilizando uma rede descentralizada e distribuída, livre de fraudes, confiável e que não pode ser alterada por governos ou instituições — o Blockchain das redes Bitcoin, Ethereum, Ethereum Classic e Decred.
+A PACWeb já é reconhecida pelos Tribunais como válida em processos judiciais (art. 369 do CPC/2015). Contamos com mais de 9 mil provas coletadas para utilização em processos, e mais de 120 escritórios de advocacia como clientes.
 
-Seus principais usos tem sido garantir validade a contratos digitais e documentos com propriedade intelectual, mas também pode ajudar a comprovar a precedência e uso de marcas e muitas outras coisas.
 
 ================
 Instalação e Uso
