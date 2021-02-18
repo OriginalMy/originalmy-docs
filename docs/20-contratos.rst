@@ -68,14 +68,13 @@ Assinatura de contratos
  
  6. Selecione o documento na sua biblioteca e conclua clicando em **Assinar**
  
- .. image:: images/assinatura5.jpg
+.. image:: images/assinatura5.jpg
  :scale: 30%
  
   7. Confirme a assinatura
   
- .. image:: images/assinatura6.jpg
- :scale: 30%
-
+.. image:: images/assinatura6.jpg
+:scale: 30%
 
 Como encontrar o PIN do documento
 ---------------------------------
