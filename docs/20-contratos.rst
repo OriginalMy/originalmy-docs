@@ -9,18 +9,37 @@ Certificação de Contratos
 
 1. Entre em https://originalmy.com e faça Login
 
-.. image:: images/omysign 1.JPG
+.. image:: images/omysign1.JPG
   :scale: 70%
 
-2. Clique em **Assinatura de Contrato** e depois em **Lançar Contrato**
-3. Preencha os CPFs ou Passaportes dos signatários
-4. Coloque um apelido para identificar o contrato (este apelido irá aparecer no app)
-5. Submeta o documento final do contrato (PDF)
+2. Acesse a aba **Serviços**, selecione o serviço **OMySign** e clique em **Comece aqui**
 
-.. note:: O documento somente será certificado em Blockchain após todos os signatários estiverem instalado o app e completado o cadastro.
-
-.. image:: images/lancar_contrato.png
+.. image:: images/omysign2.JPG
   :scale: 70%
+
+3. Submeta a versão final do contrato a ser assinado (PDF)
+
+.. image:: images/omysign3.JPG
+  :scale: 70%
+
+4. Coloque um título para identificar o contrato (este apelido irá aparecer no app)
+
+.. image:: images/omysign4.JPG
+  :scale: 70%
+
+
+5. Preencha os CPFs ou Passaportes dos signatários
+
+.. image:: images/omysign5.JPG
+  :scale: 70%
+  
+6.  Conclua o lançamento do contrato e efetue o pagamento via cartão de crédito/voucher
+
+.. image:: images/omysign6.JPG
+  :scale: 70%
+
+.. note:: O documento somente será certificado em Blockchain e aparecerá no app para assinatura após todos os signatários instalarem o app e completarem o cadastro.
+
 
 =======================
 Assinatura de contratos
