@@ -44,6 +44,10 @@ Certificação de Contratos
 Assinatura de contratos
 =======================
 
+
+Como assinar com o documento
+---------------------------------
+
 1. Baixe o app **OriginalMy** para Android ou iOS, nas lojas de aplicativo de cada aparelho. 
 
 .. image:: images/assinatura1.jpg
@@ -67,36 +71,42 @@ Assinatura de contratos
 .. image:: images/assinatura4.jpg
  :scale: 40%
  
-6. Selecione o documento na sua biblioteca e conclua clicando em **Assinar**.
+6. Selecione o arquivo na sua biblioteca de documentos e conclua clicando em **Assinar**.
  
 .. image:: images/assinatura5.jpg
  :scale: 40%
  
-7. Confirme a assinatura.
+7. Documento assinado com sucesso!
   
 .. image:: images/assinatura6.jpg
  :scale: 50%
+ 
+ 
 
-Como encontrar o PIN do documento
+Como assinar com o PIN
 ---------------------------------
 
-Existem duas formas de conseguir o PIN do documento. 
+O PIN é necessário para a **PROVA DE POSSE** do documento.
 
-.. note:: O PIN é necessário para a PROVA DE POSSE do documento.
+1. Entre em https://originalmy.com, efetue o seu **Login**
 
-* **Forma 1:**
-  Entre em https://originalmy.com, clique em Assinatura de contrato, Verificar PIN e submeta o documento a ser assinado
+2. Na área logada, selecione a opção OMySign na coluna lateral esquerda, e em seguida clique em **Assinar contrato**.
 
-.. image:: images/pin_site.png
-  :scale: 70%
+.. image:: images/assinar-pin.JPG
+ :scale: 70%
+ 
+ 3. Seleciona a opção **Já tenho minha ID** se este for o seu caso (Se ainda não tiver criado sua OMyPass, basta baixar o aplicativo e criá-la).
+ 
+.. image:: images/assinar-pin2.JPG
+ :scale: 70%
+ 
+ 4. Escolha o arquivo a ser assinado e anote o PIN.
+ 
+.. image:: images/assinar-pin3.JPG
+ :scale: 70%
+ 
+  
 
-
-* **Forma 2:**
-  No app, abra o documento PDF selecionando o aplicativo OriginalMy Blockchain para abrí-lo. 
-  Dessa forma o App comprovará que o documento é original e está pronto para ser assinado. 
-
-.. image:: images/pin2.jpg
-  :scale: 50%
 
     
 Controles de Segurança para a Assinatura de Contratos
