@@ -114,9 +114,9 @@ Como assinar com o PIN
 .. image:: images/assinar-pin4.JPG
  :scale: 70%
  
- 6. Insira o PIN para concluir a assinatura.
+6. Insira o PIN para concluir a assinatura.
  
- .. image:: images/assinar-pin55.jpeg
+.. image:: images/assinar-pin55.jpeg
  :scale: 70%
  
  
@@ -137,10 +137,12 @@ O OriginalMy possui 4 níveis de segurança para a assinatura de contratos reali
 
 .. note:: KYC significa Know Your Customer, ou Conheça Seu Cliente em português. São técnicas para identificar o usuário quando o uso da ferramenta é crítico e precisa ser aderente às regulações vigentes.
 
-Exemplo de conjunto de palavas. **Anote-as em um papel**. Sua identidade blockchain somente poderá ser recuperada com as doze palavras na mesma ordem apresentada, por este motivo é fundamental que elas sejam armazenadas em local seguro.
+.. warning:: Sua identidade blockchain somente poderá ser recuperada com as doze palavras na mesma ordem apresentada, por este motivo é fundamental que elas sejam armazenadas em local seguro. **Anote-as em um papel**.
+
+**Exemplo de conjunto de palavas:** 
 
 .. image:: images/chavederecuperaçao.jpeg 
-  :scale: 50%
+  :scale: 30%
 
 .. note:: O OriginalMy **nunca** entrará em contato para solicitar as 12 palavras fornecidas no cadastro
   Lembre-se que essas 12 palavras restauram a sua OMyPass.
