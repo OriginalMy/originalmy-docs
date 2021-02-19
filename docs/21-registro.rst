@@ -34,9 +34,9 @@ Criando uma PACDigital
 .. image:: images/pacdigital2.jpg 
 
 
-- Assim que o documento for certificado em Blockchain, será fornecido um certificado com os dados da transação e o carimbo de tempo do documento
+- Assim que o documento for certificado em Blockchain, você terá acesso ao **Certificado de Autenticidade** disponível na coluna **Ações**. Este documento fornecerá os dados da transação e o carimbo de tempo do documento
 
-.. image:: images/documento_certificado.jpg
+.. image:: images/pacdigital3.JPG
 
 
 Verificando sua PACDigital
