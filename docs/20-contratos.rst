@@ -86,7 +86,7 @@ Como assinar com o documento
 Como assinar com o PIN
 ---------------------------------
 
-O PIN é necessário para a **PROVA DE POSSE** do documento.
+.. note:: O PIN é necessário para a **PROVA DE POSSE** do documento. Para ter acesso ao PIN do seu arquivo, você deverá submetê-lo no site.
 
 1. Entre em https://originalmy.com, efetue o seu **Login**
 
@@ -95,12 +95,12 @@ O PIN é necessário para a **PROVA DE POSSE** do documento.
 .. image:: images/assinar-pin.JPG
  :scale: 70%
  
- 3. Seleciona a opção **Já tenho minha ID** se este for o seu caso (Se ainda não tiver criado sua OMyPass, basta baixar o aplicativo e criá-la).
+3. Seleciona a opção **Já tenho minha ID** se este for o seu caso (Se ainda não tiver criado sua OMyPass, basta baixar o aplicativo e criá-la).
  
 .. image:: images/assinar-pin2.JPG
  :scale: 70%
  
- 4. Escolha o arquivo a ser assinado e anote o PIN.
+4. Escolha o arquivo a ser assinado e anote o PIN.
  
 .. image:: images/assinar-pin3.JPG
  :scale: 70%
