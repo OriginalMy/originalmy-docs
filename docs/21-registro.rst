@@ -31,7 +31,7 @@ Criando uma PACDigital
 
 - Conclua o pagamento com cartão de crédito ou inserindo um cupom de crédito. Assim que o pagamento for confirmado, o documento será enviado para certificação no Blockchain.
 
-.. image:: images/pacdigital2.jpg 
+.. image:: images/pacdigital2.JPG
 
 
 - Assim que o documento for certificado em Blockchain, você terá acesso ao **Certificado de Autenticidade** disponível na coluna **Ações**. Este documento fornecerá os dados da transação e o carimbo de tempo do documento
@@ -46,7 +46,7 @@ Para efetuar a consulta, é necessário ter a posse do documento que foi certifi
 
 - Acesse o site: originalmy.com, desça até a parte inferior do site e clique em **Verificar autenticidade**
   
-.. image:: images/pacdigital.jpg  
+.. image:: images/pacdigital.JPG 
   
 
 - Clique para selecionar o arquivo previamente certificado. Submetendo o documento à plataforma, todas as informações relativas ao registro aparecerão na tela.
