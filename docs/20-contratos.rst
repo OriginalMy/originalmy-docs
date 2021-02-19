@@ -112,12 +112,12 @@ Como assinar com o PIN
 5. No aplicativo OriginalMy, selecione o documento a ser assinado e clique na opção **Usar PIN do contrato**
 
 .. image:: images/assinar-pin44.jpeg
- :scale: 50%
+ :scale: 40%
  
 6. Insira o PIN para concluir a assinatura.
  
 .. image:: images/assinar-pin55.jpeg
- :scale: 50%
+ :scale: 40%
  
  
    
@@ -141,8 +141,8 @@ O OriginalMy possui 4 níveis de segurança para a assinatura de contratos reali
 
 **Exemplo de conjunto de palavas:** 
 
-.. image:: images/chavederecuperaçao.jpeg 
-  :scale: 20%
+.. image:: images/chavederecuperaçao1.jpg
+  :scale: 30%
 
 .. note:: O OriginalMy **nunca** entrará em contato para solicitar as 12 palavras fornecidas no cadastro
   Lembre-se que essas 12 palavras restauram a sua OMyPass.
