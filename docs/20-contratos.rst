@@ -67,12 +67,12 @@ Assinatura de contratos
 .. image:: images/assinatura4.jpg
  :scale: 30%
  
- 6. Selecione o documento na sua biblioteca e conclua clicando em **Assinar**
+6. Selecione o documento na sua biblioteca e conclua clicando em **Assinar**
  
 .. image:: images/assinatura5.jpg
  :scale: 30%
  
-  7. Confirme a assinatura
+7. Confirme a assinatura
   
 .. image:: images/assinatura6.jpg
  :scale: 30%
