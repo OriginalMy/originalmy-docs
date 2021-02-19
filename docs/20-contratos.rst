@@ -90,12 +90,16 @@ Como assinar com o PIN
 
 1. Entre em https://originalmy.com, efetue o seu **Login**
 
+.. image:: images/omysign1.JPG
+  :scale: 70%
+  
 2. Na área logada, selecione a opção OMySign na coluna lateral esquerda, e em seguida clique em **Assinar contrato**.
 
 .. image:: images/assinar-pin.JPG
  :scale: 70%
  
-3. Seleciona a opção **Já tenho minha ID** se este for o seu caso (Se ainda não tiver criado sua OMyPass, basta baixar o aplicativo e criá-la).
+3. Seleciona a opção **Já tenho minha ID** se já tiver criado seu cadastro no app. 
+(Se ainda não tiver criado sua OMyPass, basta baixar o aplicativo e concluir o cadastro).
  
 .. image:: images/assinar-pin2.JPG
  :scale: 70%
@@ -105,20 +109,29 @@ Como assinar com o PIN
 .. image:: images/assinar-pin3.JPG
  :scale: 70%
  
-  
+5. No aplicativo OriginalMy, selecione o documento a ser assinado e clique na opção **Usar PIN do contrato**
 
-
-    
-Controles de Segurança para a Assinatura de Contratos
+.. image:: images/assinar-pin4.JPG
+ :scale: 70%
+ 
+ 6. Insira o PIN para concluir a assinatura.
+ 
+ .. image:: images/assinar-pin55.jpeg
+ :scale: 70%
+ 
+ 
+   
+Controles de Segurança da OMySign
 -----------------------------------------------------
 
-O OriginalMy possui 4 níveis de segurança para a assinatura de contratos:
+O OriginalMy possui 4 níveis de segurança para a assinatura de contratos realizada com a OMySign:
 
-1) Cadastro completo através do app (KYC completo com validação do CPF ou passaporte em bases públicas)
+1) Cadastro completo através do app; 
+(KYC completo com validação do CPF ou passaporte em bases públicas)
 
-2) Usuário e senha
+2) Usuário e senha;
 
-3) Chave privada em posse do usuário (através da um conjunto com 12 palavras em português ou inglês dependendo do idioma selecionado)
+3) Chave privada em posse do usuário (através da um conjunto com 12 palavras em português ou inglês dependendo do idioma selecionado);
 
 4) Prova de Posse do documento (através do PIN)
 
@@ -126,16 +139,13 @@ O OriginalMy possui 4 níveis de segurança para a assinatura de contratos:
 
 Exemplo de conjunto de palavas. **Anote-as em um papel**. Sua identidade blockchain somente poderá ser recuperada com as doze palavras na mesma ordem apresentada, por este motivo é fundamental que elas sejam armazenadas em local seguro.
 
-.. image:: images/exemplo_seed.jpg
+.. image:: images/chavederecuperaçao.jpeg 
   :scale: 50%
 
 .. note:: O OriginalMy **nunca** entrará em contato para solicitar as 12 palavras fornecidas no cadastro
-  Lembre-se que essas 12 palavras restauram a sua Identidade Blockchain.
+  Lembre-se que essas 12 palavras restauram a sua OMyPass.
   Anote-as em um papel e guarde-as em local seguro.
   
-.. note:: Para assinar documentos através do browser, será necessário entrar com as 12 palavras fornecidas no cadastro.
-  Depois disso o sistema fornecerá uma opção para baixar um arquivo que facilitará o processo nas próximas vezes. Armazene este arquivo em um local seguro.
-
 .. warning:: **NUNCA** entregue as 12 palavras ou o arquivo baixado para qualquer pessoa. Eles representam a sua identidade blockchain.
 
 
