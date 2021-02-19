@@ -2,18 +2,16 @@ PACDigital - Certificação de documentos digitais
 =======================================
 
 =================
-Registro Unitário
+Certificação unitária
 =================
 
-Este documento foi elaborado para guiar o usuário passo a passo para registrar a autenticidade de um documento digital utilizando a plataforma da OriginalMy.
+Este documento foi elaborado para guiar o usuário passo a passo para certificar a existência e anterioridade de documentos digitais utilizando a plataforma da OriginalMy, sejam eles arquivos de texto, imagem ou som.
 
-É possível registrar qualquer arquivo digital na plataforma da OriginalMy, seja ele um arquivo de texto, imagem ou som.
+.. warning:: O arquivo que será certificado, não poderá sofrer alterações posteriores, sendo assim, crie cópias de segurança do arquivo e guarde em locais seguros. Mesmo um salvamento automático do arquivo é considerado como alteração.
 
-O arquivo que será certificado, não poderá sofrer alterações posteriores, sendo assim, crie cópias de segurança do arquivo e guarde em locais seguros. Mesmo um salvamento automático do arquivo é considerado como alteração.
+.. note:: **Para sua segurança e privacidade, o documento não é armazenado pela OriginalMy**
 
-**Para sua segurança e privacidade, o documento não é armazenado pela OriginalMy**
-
-Criando o BitRegistro
+Criando sua PACDigital 
 ---------------------
 
 - Acesse o site: originalmy.com e clique em Login
@@ -41,7 +39,7 @@ Criando o BitRegistro
 .. image:: images/documento_certificado.jpg
 
 
-Verificando o BitRegistro
+Verificando o PACDigital
 -------------------------
 
 A consulta de qualquer documento na plataforma pode ser realizada de forma gratuita, quantas vezes desejar e em qualquer momento.
