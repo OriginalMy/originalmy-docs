@@ -142,7 +142,7 @@ O OriginalMy possui 4 níveis de segurança para a assinatura de contratos reali
 **Exemplo de conjunto de palavas:** 
 
 .. image:: images/chavederecuperaçao1.jpg
-  :scale: 30%
+  :scale: 10%
 
 .. note:: O OriginalMy **nunca** entrará em contato para solicitar as 12 palavras fornecidas no cadastro
   Lembre-se que essas 12 palavras restauram a sua OMyPass.
