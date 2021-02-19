@@ -11,27 +11,27 @@ Este documento foi elaborado para guiar o usuário passo a passo para certificar
 
 .. note:: **Para sua segurança e privacidade, o documento não é armazenado pela OriginalMy**
 
-Criando sua PACDigital 
+Criando uma PACDigital 
 ---------------------
 
-- Acesse o site: originalmy.com e clique em Login
+- Acesse o site: https://originalmy.com/ e clique em **Login**
   
-.. image:: images/login.jpg  
-  
+.. image:: images/login.JPG 
+ 
 
-- Clique para selecionar o arquivo a ser certificado ou arraste o arquivo para dentro do campo indicado
+- Na coluna esquerda, selecione a opção **PACDigital** e escolha entre as opções: **Certificação Blockchain** ou **Certificação Cartório**, em seguida clique em **Selecionar arquivo** 
 
-.. image:: images/submit.jpg
-
-
-- Assim que o arquivo é submetido à plataforma, é gerada a assinatura digital do documento e ele está pronto para ser enviado para certificação em Blockchain após o pagamento
-
-.. image:: images/documento_nao_certificado.jpg
+.. image:: images/arealogada.JPG
 
 
-- Pague a certificação do documento. O pagamento pode ser por Bitcoin ou via PagSeguro. Assim que o pagamento for confirmado, o documento será enviado para certificação no Blockchain
+- Assim que o arquivo é submetido na plataforma, é gerada a assinatura digital pro documento (chamada **Hash**) e ele estará pronto para ser enviado para certificação em Blockchain após o pagamento
 
-.. image:: images/aguardando_confirmacao.jpg
+.. image:: images/pacdigital1.jpg 
+
+
+- Conclua o pagamento com cartão de crédito ou inserindo um cupom de crédito. Assim que o pagamento for confirmado, o documento será enviado para certificação no Blockchain.
+
+.. image:: images/pacdigital2.jpg 
 
 
 - Assim que o documento for certificado em Blockchain, será fornecido um certificado com os dados da transação e o carimbo de tempo do documento
@@ -39,25 +39,20 @@ Criando sua PACDigital
 .. image:: images/documento_certificado.jpg
 
 
-Verificando o PACDigital
+Verificando sua PACDigital
 -------------------------
 
-A consulta de qualquer documento na plataforma pode ser realizada de forma gratuita, quantas vezes desejar e em qualquer momento.
+Para efetuar a consulta, é necessário ter a posse do documento que foi certificado. A consulta de qualquer documento na plataforma pode ser realizada de forma gratuita, quantas vezes desejar e em qualquer momento.
 
-Para efetuar a consulta, é necessário ter a posse do documento que foi registrado.
-
-- Acesse o site: originalmy.com e clique em Login
+- Acesse o site: originalmy.com, desça até a parte inferior do site e clique em **Verificar autenticidade**
   
-.. image:: images/login.jpg  
+.. image:: images/pacdigital.jpg  
   
 
-- Clique para selecionar o arquivo previamente registrado ou arraste o arquivo para dentro do campo indicado
+- Clique para selecionar o arquivo previamente certificado. Submetendo o documento à plataforma, todas as informações relativas ao registro aparecerão na tela.
 
-.. image:: images/submit2.jpg
+Assim que o arquivo é submetido à plataforma, a assinatura digital (**Hash**) é recalculada e caso o documento não tenha sofrido nenhuma alteração, é apresentado o status atual do documento: 
 
-
-Assim que o arquivo é submetido à plataforma, a assinatura digital é recalculada e caso o documento não tenha sofrido nenhuma alteração, é apresentado o status atual do documento: documento não certificado, aguardando confirmação ou documento certificado.
-
-Submetendo o documento à plataforma, todas as informações relativas ao registro aparecerão na tela.
-
+- Aguardando pagamento. (Quando a assinatura digital não é encontrada)
+- Certificado em Blockchain. (Quando a assinatura digital é encontrada)
 
