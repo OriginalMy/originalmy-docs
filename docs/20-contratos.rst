@@ -7,37 +7,37 @@ Leia as recomendações para **reforçar a validade jurídica** do seu contrato 
 Certificação de Contratos
 =========================
 
-1. Entre em https://originalmy.com e faça Login
+1. Entre em https://originalmy.com e faça Login.
 
 .. image:: images/omysign1.JPG
   :scale: 70%
 
-2. Acesse a aba **Serviços**, selecione o serviço **OMySign** e clique em **Comece aqui**
+2. Acesse a aba **Serviços**, selecione o serviço **OMySign** e clique em **Comece aqui**.
 
 .. image:: images/omysign2.JPG
   :scale: 50%
 
-3. Submeta a versão final do contrato a ser assinado (PDF)
+3. Submeta a versão final do contrato a ser assinado (PDF).
 
 .. image:: images/omysign3.JPG
   :scale: 70%
 
-4. Coloque um título para identificar o contrato (este apelido é como o documento aparecerá no app)
+4. Coloque um título para identificar o contrato (este apelido é como o documento aparecerá no app).
 
 .. image:: images/omysign4.JPG
   :scale: 70%
 
-5. Preencha os CPFs ou Passaportes dos signatários
+5. Preencha os CPFs ou Passaportes dos signatários.
 
 .. image:: images/omysign5.JPG
   :scale: 70%
   
-6.  Clique em **continuar** para concluir a certificação do contrato e efetue o pagamento via cartão de crédito/voucher
+6.  Clique em **continuar** para concluir a certificação do contrato e efetue o pagamento via cartão de crédito/voucher.
 
 .. image:: images/omysign6.JPG
   :scale: 70%
 
-.. note:: O documento somente será certificado em Blockchain e aparecerá no app para assinatura após todos os signatários instalarem o app e completarem o cadastro.
+.. warning:: O documento somente será certificado em Blockchain e aparecerá no app para assinatura após todos os signatários instalarem o app e completarem o cadastro.
 
 
 =======================
@@ -52,27 +52,27 @@ Assinatura de contratos
 2. Efetue o cadastro completo, valide seu email e aguarde a validação do cadastro. 
 
 
-3. Entre no Menu e clique em **OMySign**
+3. Entre no Menu e clique em **OMySign**.
 
 .. image:: images/assinatura2.jpg
  :scale: 40%
 
-4. Na lista de **Pendentes**, clique no documento que deseja assinar 
+4. Na lista de **Pendentes**, clique no documento que deseja assinar.
 
 .. image:: images/assinatura3.jpg
  :scale: 40%
 
-5. Comprove a posse sobre o documento a ser assinado selecionando a opção **Abrir contrato** 
+5. Comprove a posse sobre o documento a ser assinado selecionando a opção **Abrir contrato**.
 
 .. image:: images/assinatura4.jpg
  :scale: 30%
  
-6. Selecione o documento na sua biblioteca e conclua clicando em **Assinar**
+6. Selecione o documento na sua biblioteca e conclua clicando em **Assinar**.
  
 .. image:: images/assinatura5.jpg
  :scale: 30%
  
-7. Confirme a assinatura
+7. Confirme a assinatura.
   
 .. image:: images/assinatura6.jpg
  :scale: 30%
