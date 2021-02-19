@@ -65,17 +65,17 @@ Assinatura de contratos
 5. Comprove a posse sobre o documento a ser assinado selecionando a opção **Abrir contrato**.
 
 .. image:: images/assinatura4.jpg
- :scale: 30%
+ :scale: 40%
  
 6. Selecione o documento na sua biblioteca e conclua clicando em **Assinar**.
  
 .. image:: images/assinatura5.jpg
- :scale: 30%
+ :scale: 40%
  
 7. Confirme a assinatura.
   
 .. image:: images/assinatura6.jpg
- :scale: 30%
+ :scale: 50%
 
 Como encontrar o PIN do documento
 ---------------------------------
@@ -85,7 +85,7 @@ Existem duas formas de conseguir o PIN do documento.
 .. note:: O PIN é necessário para a PROVA DE POSSE do documento.
 
 * **Forma 1:**
-  Entre em OriginalMy.com, clique em Assinatura de contrato, Verificar PIN e submeta o documento a ser assinado
+  Entre em https://originalmy.com, clique em Assinatura de contrato, Verificar PIN e submeta o documento a ser assinado
 
 .. image:: images/pin_site.png
   :scale: 70%
