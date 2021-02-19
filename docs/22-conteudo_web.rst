@@ -19,9 +19,9 @@ A PACWeb já é reconhecida pelos Tribunais como válida em processos judiciais 
 Instalação e Uso
 ================
 
-Instale a extensão utilizando a webstore do Chrome ou clique neste link: https://chrome.google.com/webstore/detail/originalmy-prova-de-auten/lipchhllklhmehlnknonpkjgaolabkfd
+Instale a extensão utilizando a webstore do Chrome ou clique neste link: https://chrome.google.com/webstore/detail/pacweb/lipchhllklhmehlnknonpkjgaolabkfd?utm_source=chrome-ntp-icon
 
-.. image:: images/instale_plugin.jpg
+.. image:: images/instalar_plugin.JPG 
   :scale: 50%
 
 Instalação da Extensão OriginalMy no Chrome
