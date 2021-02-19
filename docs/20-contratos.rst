@@ -111,13 +111,13 @@ Como assinar com o PIN
  
 5. No aplicativo OriginalMy, selecione o documento a ser assinado e clique na opção **Usar PIN do contrato**
 
-.. image:: images/assinar-pin4.JPG
- :scale: 70%
+.. image:: images/assinar-pin44.jpeg
+ :scale: 50%
  
 6. Insira o PIN para concluir a assinatura.
  
 .. image:: images/assinar-pin55.jpeg
- :scale: 70%
+ :scale: 50%
  
  
    
@@ -133,7 +133,7 @@ O OriginalMy possui 4 níveis de segurança para a assinatura de contratos reali
 
 3) Chave privada em posse do usuário (através da um conjunto com 12 palavras em português ou inglês dependendo do idioma selecionado);
 
-4) Prova de Posse do documento (através do PIN)
+4) Prova de Posse do documento (através do PIN).
 
 .. note:: KYC significa Know Your Customer, ou Conheça Seu Cliente em português. São técnicas para identificar o usuário quando o uso da ferramenta é crítico e precisa ser aderente às regulações vigentes.
 
@@ -142,7 +142,7 @@ O OriginalMy possui 4 níveis de segurança para a assinatura de contratos reali
 **Exemplo de conjunto de palavas:** 
 
 .. image:: images/chavederecuperaçao.jpeg 
-  :scale: 30%
+  :scale: 20%
 
 .. note:: O OriginalMy **nunca** entrará em contato para solicitar as 12 palavras fornecidas no cadastro
   Lembre-se que essas 12 palavras restauram a sua OMyPass.
