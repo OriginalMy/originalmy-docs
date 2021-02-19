@@ -51,6 +51,8 @@ Para efetuar a consulta, é necessário ter a posse do documento que foi certifi
 
 - Clique para selecionar o arquivo previamente certificado. Submetendo o documento à plataforma, todas as informações relativas ao registro aparecerão na tela.
 
+.. image:: images/pacdigital4.JPG
+
 Assim que o arquivo é submetido à plataforma, a assinatura digital (**Hash**) é recalculada e caso o documento não tenha sofrido nenhuma alteração, é apresentado o status atual do documento: 
 
 - Aguardando pagamento. (Quando a assinatura digital não é encontrada)
